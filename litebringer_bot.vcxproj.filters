@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="litebringer_bot.cpp">
+    <ClCompile Include="src\litebringer_bot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
